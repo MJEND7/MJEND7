@@ -6,10 +6,23 @@
   <br/>
  </h2>
 <p align="center">
-  <img title="Code - TypeScript" alt="Code - TypeScript" src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6"/>
-    <img title="Code - JavaScript" alt="Code - JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"/>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/html.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/python.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/raspberrypi.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>
   
-
 Hi, I am a programmer in school looking for some extra cash using my talent.
 I have done many projects with HTML, CSS, JavaScript, SCSS, THREE.js, and animte.js.
 I am looking to collab with people's projects, also Halo 2❤ is the best. 
