@@ -22,8 +22,8 @@
   </a><a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJEND7&layout=compact&theme=material-palenight&langs_count=15" />
-  <img height="195" align="left" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"   alt="MJEND" />
+  <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJEND7&layout=compact&theme=material-palenight&langs_count=15" /> <br>
+  <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"     alt="MJEND" />
   
 Hi, I am a 15year old programmer, in school working to get mt MTA.
 I have done many projects with HTML, CSS, JavaScript, SCSS, THREE.js, and animte.js.
