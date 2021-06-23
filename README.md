@@ -28,7 +28,7 @@
   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"     alt="MJEND" />
   
 Hi, I am a 15year old programmer, in school working to get mt MTA.
-I have done many projects with HTML, CSS, JavaScript, SCSS, THREE.js, and animte.js.
+I have done many projects with HTML, CSS, JavaScript, .NET/C#, Python, and Java.
 I am looking to collab with people's projects, also Halo 2❤ is the best. 
 
 
