@@ -35,7 +35,7 @@ I am looking to collab with people's projects, also Halo 2❤ is the best.
 - 🔭 I’m currently working on C#, MTA, JavaScript
 
 
-- 📫 How to reach me you can dm me on discord @MJEND#8601 or at markuss.cowburn@gmail.com
+- 📫 How to reach me you can dm me on discord @MJEND#8601 or at my dev email: mjend.dev@gmail.com
 
 
 
