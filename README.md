@@ -27,12 +27,12 @@
   <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJEND7&layout=compact&theme=material-palenight&langs_count=15" /> <br>
   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"     alt="MJEND" />
   
-Hi, I am a 15year old programmer, in school working to get mt MTA.
+Hi, I am a 15year old programmer, in school working to get my MTA.
 I have done many projects with HTML, CSS, JavaScript, .NET/C#, Python, and Java.
 I am looking to collab with people's projects, also Halo 2❤ is the best. 
 
 
-- 🔭 I’m currently working on MTA, Code+, ICT
+- 🔭 I’m currently working on MTA, Code+, MongoDB, SermX
 
 
 - 📫 How to reach me you can dm me on discord @MJEND#8601 or at my dev email: mjend.dev@gmail.com
