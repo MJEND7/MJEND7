@@ -33,7 +33,7 @@ I have done many projects with HTML, CSS, SCSS, JavaScript, .NET/C#, Python, and
 I am looking to collab with people's projects, also Halo 2❤ is the best. 
 
 
-- 🔭 I’m currently working on MTA, Code+, SermX
+- 🔭 I’m currently working on MTA, Code+, C#
 
 
 - 📫 How to reach me you can DM me on discord @MJEND#8601 or at my dev email: mjend.dev@gmail.com
