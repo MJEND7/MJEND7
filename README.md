@@ -5,7 +5,9 @@
   <br/>
   <br/>
  </h2>
-<p align="center">
+ <a href="#"><p align="center">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs_larger.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/html.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -18,7 +20,7 @@
   </a><a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/raspberrypi.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a><a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a><a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
