@@ -31,8 +31,8 @@
   
 # I am a Web Dev  
 Hi, I am a 15 year old programmer, in school working to get my MTA.
-I have done many projects with HTML, CSS, SCSS, JavaScript, .NET/C#, Python, and moded with Java.
-I am looking to collab with people's projects, also Halo 2❤ is the best. 
+I have done many projects with HTML, CSS, SCSS, JavaScript, .NET/C#, Python, and moded with Java i have also done game Dev with unreal and Unity✔.
+I am also looking to collab with people's projects, also Halo 2❤ is the best. 
 
 
 
