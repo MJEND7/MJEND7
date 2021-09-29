@@ -39,8 +39,9 @@ I am also looking to collab with people's projects, also Halo 2❤ is the best.
 
 - 🔭 I’m currently working on MTA, Code+, Typescript 
 
+- 🔗 My linkedIn: https://www.linkedin.com/in/markuss-cowburn-a814b1219/
 
-- 📫 How to reach me you can DM me on discord @MJEND#8601 or at my dev email: mjend.dev@gmail.com
+- 📫 How to reach me: you can DM me at my dev email: mjend.dev@gmail.com
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MJEND7&label=Profile%20views&color=0e75b6&style=flat" alt="MJEND7" /> </p>
 
 
