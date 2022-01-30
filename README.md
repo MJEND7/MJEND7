@@ -37,7 +37,7 @@ I am also looking to collab with people's projects, also Halo 2❤ is the best.
 
 
 
-- 🔭 I’m currently working on MTA, Code+, ruby
+- 🔭 I’m currently At IDS as a front/backend dev 🎉
 
 - 🔗 My linkedIn: https://www.linkedin.com/in/markuss-cowburn-a814b1219/
 
