@@ -1,7 +1,7 @@
 <h2 style="font-size:100px;" align="center">
   <img src="https://avatars.githubusercontent.com/u/60278279?s=400&u=853bef17e7aab97e9275c1bc97aa770818b05855&v=4" height="150vh" ></img>
   <br/>
-  Hello i am MJEND!
+  Hello I am Markuss AKA MJEND!
   <br/>
   <br/>
  </h2>
@@ -30,18 +30,18 @@
   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"     alt="MJEND" />
   
 # I am a Web Dev  
-Hi, I am a 15 year old programmer, in school working to get my MTA.
-I have done many projects with HTML, CSS, SCSS, JavaScript, .NET/C#, Python, and moded with Java i have also done game Dev with unreal and Unity✔.
-I am also looking to collab with people's projects, also Halo 2❤ is the best. 
+Hi 👋, I am a 15 year old programmer, in school working at IDS.company building contentions .
+I have done many projects with Svetle 🔗, TypeScript 🤟, .NET/C# , Python 🐍, and moded with Java I have also done game Dev with Unreal and Unity✔️.
+I am also looking to collab with people's projects, I love programming, "It helps people come to gether and just build" - Me. 
 
 
 
 
-- 🔭 I’m currently At IDS as a front/backend dev 🎉
+- 🔭 I’m currently At IDS as a front/backend dev building with web3 and svelte 🎉
 
 - 🔗 My linkedIn: https://www.linkedin.com/in/markuss-cowburn-a814b1219/
 
-- 📫 How to reach me: you can DM me at my dev email: mjend.dev@gmail.com
+- 📫 How to reach me: you can DM me at : MJEND#8601
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MJEND7&label=Profile%20views&color=0e75b6&style=flat" alt="MJEND7" /> </p>
 
 
