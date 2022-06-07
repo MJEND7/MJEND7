@@ -13,15 +13,18 @@
 
  ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://MJEND7.xyz?ref=github)
-[![Python](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://MJEND7.xyz?ref=github)
+[![JS](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://MJEND7.xyz?ref=github)
+[![TS](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://MJEND7.xyz?ref=github)
+[![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)](https://MJEND7.xyz?ref=github)
+[![Solidity](https://img.shields.io/badge/-Python-000?&logo=python)](https://MJEND7.xyz?ref=github)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://MJEND7.xyz?ref=github)
-[![PHP](https://img.shields.io/badge/-CSharp-000?&logo=CSharp&logoColor=007396)](https://MJEND7.xyz?ref=github)
+[![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp&logoColor=007396)](https://MJEND7.xyz?ref=github)
 
 ### Technologies
 
 [![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-Npm-000?&logo=npm)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Web3-000?&logo=Web3.js)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-React-000?&logo=React)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-Unity-000?&logo=unity)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-Svelte-000?&logo=svelte)](https://MJEND7.xyz?ref=github)
@@ -50,11 +53,23 @@ I have done many projects with Svetle 🔗, TypeScript 🤟, .NET/C# , Python �
 I am also looking to collab with people's projects, I love programming, "It helps people come to gether and just build" - Me. 
 
 
-
-
 - 🔭 I’m currently At IDS as a front/backend dev building with web3 and svelte 🎉
 
 - 🔗 My linkedIn: https://www.linkedin.com/in/markuss-cowburn-a814b1219/
 
 - 📫 How to reach me: you can DM me at : MJEND#8601
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MJEND7&label=Profile%20views&color=0e75b6&style=flat" alt="MJEND7" /> </p>
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
+
