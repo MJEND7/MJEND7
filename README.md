@@ -1,33 +1,48 @@
 <h2 style="font-size:100px;" align="center">
-  <img src="https://avatars.githubusercontent.com/u/60278279?s=400&u=853bef17e7aab97e9275c1bc97aa770818b05855&v=4" height="150vh" ></img>
+  <div style="border-radius: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/60278279?s=400&u=853bef17e7aab97e9275c1bc97aa770818b05855&v=4" height="150vh" ></img>
+  </div>
   <br/>
   Hello I am Markuss AKA MJEND!
   <br/>
   <br/>
  </h2>
  <a href="#"><p align="center">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs_larger.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/html.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a><a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a><a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/python.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a><a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/raspberrypi.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a><a href="#">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a><a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/csharp_dotnet.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a><br>
-  <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJEND7&layout=compact&theme=material-palenight&langs_count=15" /> <br>
-  <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"     alt="MJEND" />
+  
+
+
+ ### Languages
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://MJEND7.xyz?ref=github)
+[![Python](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://MJEND7.xyz?ref=github)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://MJEND7.xyz?ref=github)
+[![PHP](https://img.shields.io/badge/-CSharp-000?&logo=CSharp&logoColor=007396)](https://MJEND7.xyz?ref=github)
+
+### Technologies
+
+[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Npm-000?&logo=npm)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-React-000?&logo=React)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Unity-000?&logo=unity)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Svelte-000?&logo=svelte)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-SvelteKit-000?&logo=svelte)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-VSC-000?&logo=visual-studio-code&logoColor=0769AD)](https://MJEND7.xyz?ref=github)
+
+### Other
+
+[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Windi-000?&logo=WindiCss)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-linux-000?&logo=linux)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://MJEND7.xyz?ref=github)
+[![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://MJEND7.xyz?ref=github)
+
+ <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"     alt="MJEND" />
   
 # I am a Web Dev  
 Hi 👋, I am a 15 year old programmer, in school working at IDS.company building contentions .
@@ -43,5 +58,3 @@ I am also looking to collab with people's projects, I love programming, "It help
 
 - 📫 How to reach me: you can DM me at : MJEND#8601
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MJEND7&label=Profile%20views&color=0e75b6&style=flat" alt="MJEND7" /> </p>
-
-
