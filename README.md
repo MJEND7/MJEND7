@@ -8,11 +8,11 @@
   <br/>
  </h2>
  <a href="#"><p align="center">
-  
 
 
  ### Languages
-
+ 
+[![GO](https://img.shields.io/badge/-GO-000?&logo=Go)](https://MJEND7.xyz?ref=github)
 [![JS](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://MJEND7.xyz?ref=github)
 [![TS](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://MJEND7.xyz?ref=github)
 [![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)](https://MJEND7.xyz?ref=github)
@@ -30,9 +30,6 @@
 [![](https://img.shields.io/badge/-Svelte-000?&logo=svelte)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-SvelteKit-000?&logo=svelte)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-VSC-000?&logo=visual-studio-code&logoColor=0769AD)](https://MJEND7.xyz?ref=github)
-
-### Other
-
 [![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://MJEND7.xyz?ref=github)
@@ -44,27 +41,25 @@
 [![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://MJEND7.xyz?ref=github)
-
- <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"     alt="MJEND" />
   
 # I am a Web Dev  
-Hi 👋, I am a 17 year old programmer, in school working at IDS.company building contentions .
-I have done many projects with Svetle 🔗, TypeScript 🤟, .NET/C# , Python 🐍, and moded with Java I have also done game Dev with Unreal and Unity✔️.
-I am also looking to collab with people's projects, I love programming, "It helps people come to gether and just build" - Me. 
+Hi 👋, I am a 17 year old programmer,working at IDS.company for a year and a half building consciences.
+I have done many projects with Svetle 🔗, TypeScript 🤟, .NET/C# , Python 🐍, and moded with Java I have also done game Dev with Unreal and Unity.
+I am also looking to collab with people's projects, I love programming.
 
 
-- 🔭 I’m currently At IDS as a front/backend dev building with web3 and svelte 🎉
+- 🔭 I’m currently At IDS as a front/backend dev building with svelt, ts, tailwind and go 
 
 - 🔗 My linkedIn: https://www.linkedin.com/in/markuss-cowburn-a814b1219/
 
-- 📫 How to reach me: you can DM me at : MJEND#8601
+- 📫 How to reach me: you can reach me through my [linkedIn](https://www.linkedin.com/in/markuss-cowburn-a814b1219/) 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MJEND7&label=Profile%20views&color=0e75b6&style=flat" alt="MJEND7" /> </p>
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 🔥</em>
   
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Notepad++ is better, just better, prove me worng" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
