@@ -48,7 +48,7 @@
  <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"     alt="MJEND" />
   
 # I am a Web Dev  
-Hi 👋, I am a 15 year old programmer, in school working at IDS.company building contentions .
+Hi 👋, I am a 17 year old programmer, in school working at IDS.company building contentions .
 I have done many projects with Svetle 🔗, TypeScript 🤟, .NET/C# , Python 🐍, and moded with Java I have also done game Dev with Unreal and Unity✔️.
 I am also looking to collab with people's projects, I love programming, "It helps people come to gether and just build" - Me. 
 
