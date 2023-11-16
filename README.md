@@ -1,15 +1,3 @@
-<h2 style="font-size:100px;" align="center">
-  <div style="border-radius: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/60278279?s=400&u=853bef17e7aab97e9275c1bc97aa770818b05855&v=4" height="150vh" ></img>
-  </div>
-  <br/>
-  Hello I am Markuss AKA MJEND!
-  <br/>
-  <br/>
- </h2>
- <a href="#"><p align="center">
-
-
  ### Languages
  
 [![GO](https://img.shields.io/badge/-GO-000?&logo=Go)](https://MJEND7.xyz?ref=github)
@@ -18,7 +6,10 @@
 [![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)](https://MJEND7.xyz?ref=github)
 [![Solidity](https://img.shields.io/badge/-Python-000?&logo=python)](https://MJEND7.xyz?ref=github)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://MJEND7.xyz?ref=github)
-[![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp&logoColor=007396)](https://MJEND7.xyz?ref=github)
+[![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua&logoColor=007396)](https://MJEND7.xyz?ref=github)
+[![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell&logoColor=007396)](https://MJEND7.xyz?ref=github)
+[![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=007396)](https://MJEND7.xyz?ref=github)
+
 
 ### Technologies
 
@@ -42,29 +33,10 @@
 [![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://MJEND7.xyz?ref=github)
   
-# I am a Web Dev  
-Hi 👋, I am a 17 year old programmer,working at IDS.company for a year and a half building consciences.
-I have done many projects with Svetle 🔗, TypeScript 🤟, .NET/C# , Python 🐍, and moded with Java I have also done game Dev with Unreal and Unity.
-I am also looking to collab with people's projects, I love programming.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MJEND7&label=Profile%20views&color=0e75b6&style=flat" alt="MJEND7" /> </p>
+let me be efficient, I work at IDS.company building consciences. I am currently building the garden's chore systems for appreciation and the description of performances. I have also just started building out some cool tooling to make work as blazing fast as possible. Halo 2 is objectively the best halo game, disagree fight me. 
 
-- 🔭 I’m currently At IDS as a front/backend dev building with svelt, ts, tailwind and go 
+1. [linkedIn](https://www.linkedin.com/in/markuss-cowburn-a814b1219/)
 
-- 🔗 My linkedIn: https://www.linkedin.com/in/markuss-cowburn-a814b1219/
-
-- 📫 How to reach me: you can reach me through my [linkedIn](https://www.linkedin.com/in/markuss-cowburn-a814b1219/) 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MJEND7&label=Profile%20views&color=0e75b6&style=flat" alt="MJEND7" /> </p>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 🔥</em>
-  
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Notepad++ is better, just better, prove me worng" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
-</div>
-
+2. 📫 How to reach me: you can reach me through my [linkedIn](https://www.linkedin.com/in/markuss-cowburn-a814b1219/)
