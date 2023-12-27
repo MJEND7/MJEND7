@@ -37,6 +37,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MJEND7&label=Profile%20views&color=0e75b6&style=flat" alt="MJEND7" /> </p>
 let me be efficient, I work at IDS.company building consciences. I am currently building the garden's chore systems for appreciation and the description of performances. I have also just started building out some cool tooling to make work as blazing fast as possible. Halo 2 is objectively the best halo game, disagree fight me. 
 
-1. [linkedIn](https://www.linkedin.com/in/markuss-cowburn-a814b1219/)
-
-2. 📫 How to reach me: you can reach me through my [linkedIn](https://www.linkedin.com/in/markuss-cowburn-a814b1219/)
+ 📫 reach me through my [linkedIn](https://www.linkedin.com/in/markuss-cowburn-a814b1219/)
