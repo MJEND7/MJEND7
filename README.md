@@ -33,8 +33,20 @@
 [![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://MJEND7.xyz?ref=github)
 [![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://MJEND7.xyz?ref=github)
   
+## Me
+Let me jump right into this, I love programming it's such good out let for creativity...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MJEND7&label=Profile%20views&color=0e75b6&style=flat" alt="MJEND7" /> </p>
-let me be efficient, I work at IDS.company building consciences. I am currently building the garden's chore systems for appreciation and the description of performances. I have also just started building out some cool tooling to make work as blazing fast as possible. Halo 2 is objectively the best halo game, disagree fight me. 
+Is what I would say if I was trying to be protracted, but to be honest, I like to make things that, work, go fast, and spend too long doing something I really didn't need to do in the first place but wanted to automate it with "AI" (bash script, don't tell my CEO).
 
- 📫 reach me through my [linkedIn](https://www.linkedin.com/in/markuss-cowburn-a814b1219/)
+Always looking to expand my knowledge as much as possible and build connections.
+
+Pretty lighthearted.
+
+As a student at The Learning People (IRE) Ltd for about a year and a half before I began working for my first company, IDS.company were I am currently working on a performance description platform that is fully community based. There I work as a lead developer on this fantastic project forward, and building my team management skills.
+
+ I am Markuss, good to meet you...
+
+<hr>
+
+📫 Reach me through my [linkedIn](https://www.linkedin.com/in/markuss-cowburn-a814b1219/)
+
